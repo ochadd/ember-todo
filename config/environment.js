@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'ember-todo',
+    podModulePrefix: 'ember-todo/modules',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
